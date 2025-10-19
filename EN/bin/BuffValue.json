@@ -7449,7 +7449,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "10701011": {
     "Id": 10701011,
@@ -7464,6 +7465,7 @@
     "TimeSuperposition": 2,
     "Timing": 1,
     "ReplaceType": true,
+    "ReplaceMode": true,
     "IsInherit": true
   },
   "10702011": {
@@ -7479,6 +7481,7 @@
     "TimeSuperposition": 2,
     "Timing": 1,
     "ReplaceType": true,
+    "ReplaceMode": true,
     "IsInherit": true
   },
   "10703012": {
@@ -7524,6 +7527,7 @@
     "TimeSuperposition": 2,
     "Timing": 1,
     "ReplaceType": true,
+    "ReplaceMode": true,
     "IsInherit": true
   },
   "10706011": {
@@ -7538,7 +7542,7 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true,
+    "ReplaceMode": true,
     "IsInherit": true
   },
   "10707011": {
@@ -7586,6 +7590,7 @@
     "TimeSuperposition": 2,
     "Timing": 1,
     "ReplaceType": true,
+    "ReplaceMode": true,
     "IsInherit": true
   },
   "10710011": {
@@ -7602,6 +7607,7 @@
     "TimeSuperposition": 2,
     "Timing": 1,
     "ReplaceType": true,
+    "ReplaceMode": true,
     "IsInherit": true
   },
   "10711011": {
@@ -7617,6 +7623,7 @@
     "TimeSuperposition": 2,
     "Timing": 1,
     "ReplaceType": true,
+    "ReplaceMode": true,
     "IsInherit": true
   },
   "10712011": {
@@ -7632,6 +7639,7 @@
     "TimeSuperposition": 2,
     "Timing": 1,
     "ReplaceType": true,
+    "ReplaceMode": true,
     "IsInherit": true
   },
   "10713011": {
@@ -7646,7 +7654,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "10795011": {
     "Id": 10795011,
@@ -7660,7 +7669,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "10795012": {
     "Id": 10795012,
@@ -7674,7 +7684,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "10721011": {
     "Id": 10721011,
@@ -7688,7 +7699,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "10723011": {
     "Id": 10723011,
@@ -7732,7 +7744,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "10727011": {
     "Id": 10727011,
@@ -7746,7 +7759,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "10728011": {
     "Id": 10728011,
@@ -7792,6 +7806,7 @@
     "TimeSuperposition": 2,
     "Timing": 1,
     "ReplaceType": true,
+    "ReplaceMode": true,
     "IsInherit": true
   },
   "10733011": {
@@ -7807,6 +7822,7 @@
     "TimeSuperposition": 2,
     "Timing": 1,
     "ReplaceType": true,
+    "ReplaceMode": true,
     "IsInherit": true
   },
   "10741011": {
@@ -7820,7 +7836,8 @@
     "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
-    "Timing": 1
+    "Timing": 1,
+    "ReplaceMode": true
   },
   "10743011": {
     "Id": 10743011,
@@ -7834,7 +7851,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "10798021": {
     "Id": 10798021,
@@ -7848,7 +7866,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "10796111": {
     "Id": 10796111,
@@ -8147,7 +8166,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "11533012": {
     "Id": 11533012,
@@ -8161,7 +8181,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "11541011": {
     "Id": 11541011,
@@ -8176,7 +8197,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "11543011": {
     "Id": 11543011,
@@ -8331,7 +8353,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "11729011": {
     "Id": 11729011,
@@ -8345,7 +8368,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "11730011": {
     "Id": 11730011,
@@ -8359,7 +8383,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "11733011": {
     "Id": 11733011,
@@ -8373,7 +8398,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "11741011": {
     "Id": 11741011,
@@ -8387,7 +8413,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "11743011": {
     "Id": 11743011,
@@ -8416,7 +8443,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "11796311": {
     "Id": 11796311,
@@ -8430,7 +8458,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "11796411": {
     "Id": 11796411,
@@ -8444,7 +8473,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "11796511": {
     "Id": 11796511,
@@ -8546,7 +8576,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "13210011": {
     "Id": 13210011,
@@ -8560,7 +8591,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "13211011": {
     "Id": 13211011,
@@ -8574,7 +8606,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "13212011": {
     "Id": 13212011,
@@ -8588,7 +8621,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "13213011": {
     "Id": 13213011,
@@ -8617,7 +8651,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "13295011": {
     "Id": 13295011,
@@ -8643,7 +8678,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "13229011": {
     "Id": 13229011,
@@ -8657,7 +8693,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "13230011": {
     "Id": 13230011,
@@ -8716,7 +8753,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "13298012": {
     "Id": 13298012,
@@ -8730,7 +8768,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "13298013": {
     "Id": 13298013,
@@ -8744,7 +8783,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "13298021": {
     "Id": 13298021,
@@ -9014,7 +9054,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "15033011": {
     "Id": 15033011,
@@ -9028,7 +9069,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "15043011": {
     "Id": 15043011,
@@ -9164,7 +9206,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "15511011": {
     "Id": 15511011,
@@ -9178,7 +9221,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "15512011": {
     "Id": 15512011,
@@ -9192,7 +9236,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "15527011": {
     "Id": 15527011,
@@ -9203,7 +9248,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "15528011": {
     "Id": 15528011,
@@ -9216,8 +9262,7 @@
     "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
-    "Timing": 1,
-    "ReplaceType": true
+    "Timing": 1
   },
   "15529011": {
     "Id": 15529011,
@@ -9288,7 +9333,8 @@
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
-    "ReplaceType": true
+    "ReplaceType": true,
+    "ReplaceMode": true
   },
   "15541011": {
     "Id": 15541011,
@@ -10774,7 +10820,7 @@
       14242001
     ],
     "Time": 100000,
-    "LaminatedNum": 4,
+    "LaminatedNum": 1,
     "Num": 1,
     "TimeSuperposition": 2,
     "Timing": 1,
