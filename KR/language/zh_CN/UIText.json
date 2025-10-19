@@ -2239,7 +2239,7 @@
   "UIText.SelectTeam_HasBannedChar.1": "编队中旅人{0} 无法在此次战斗中使用",
   "UIText.SelectTeam_StartBattle.1": "战斗",
   "UIText.SendGift_Count_Limit.1": "今日已赠礼次数{0}，已达赠礼次数上限",
-  "UIText.Service_Bilibili_Tips.1": "请通过B站客服中心-我的-联系客服进行咨询",
+  "UIText.Service_Bilibili_Tips.1": "请通过bilibili游戏中心-我的-联系客服",
   "UIText.Settings_Account.1": "账号",
   "UIText.Settings_Account_Center.1": "用户中心",
   "UIText.Settings_Account_CodeTips.1": "请输入兑换信息",
