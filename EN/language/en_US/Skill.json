@@ -430,7 +430,7 @@
   "Skill.12532000.2": "Creates a field of Ice Flowers ahead, dealing <color=#fb8037>&Param1& of ATK</color> as AoE Aqua DMG.\u000bAfter 1s, the Ice Flowers burst, dealing <color=#fb8037>&Param2& of ATK</color> as AoE Aqua DMG.\u000bFrost Bloom (Support Skill) can inflict ##Aqua Mark: Torrent#2008#.",
   "Skill.12540000.1": "Elegy of Frost",
   "Skill.12540000.13": "Deals DMG to nearby targets and enters ##Berserk#2014#.",
-  "Skill.12540000.2": "Freesia growls furiously, dealing <color=#fb8037>&Param1& of ATK</color> & <color=#fb8037>&Param2&of ATK</color> as Aqua DMG in a large area. She then deals <color=#fb8037>&Param3& of ATK</color> as AoE Aqua DMG and enters the ##Berserk#2014# status for 20s.\u000bWhen Freesia is in ##Berserk#2014# status as a support character, she will automatically attack nearby enemies.",
+  "Skill.12540000.2": "Freesia growls furiously, dealing <color=#fb8037>&Param1& of ATK</color> and <color=#fb8037>&Param2& of ATK</color> as Aqua DMG in a large area. She then deals <color=#fb8037>&Param3& of ATK</color> as AoE Aqua DMG and enters the ##Berserk#2014# status for 20s.\u000bWhen Freesia is in ##Berserk#2014# status as a support character, she will automatically attack nearby enemies.",
   "Skill.12570000.13": "Dash",
   "Skill.12570000.2": "Dash",
   "Skill.12610000.1": "Three-Act Show",
