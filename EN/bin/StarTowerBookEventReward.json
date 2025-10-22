@@ -1273,7 +1273,8 @@
     "CompleteCond": 94,
     "CompleteCondParams": "[155,1]",
     "ItemId": 2,
-    "ItemQty": 10
+    "ItemQty": 10,
+    "IsBanned": true
   },
   "15502": {
     "Id": 15502,
@@ -1286,7 +1287,8 @@
     "CompleteCond": 94,
     "CompleteCondParams": "[155,2]",
     "ItemId": 2,
-    "ItemQty": 10
+    "ItemQty": 10,
+    "IsBanned": true
   },
   "15503": {
     "Id": 15503,
@@ -1299,7 +1301,8 @@
     "CompleteCond": 94,
     "CompleteCondParams": "[155,3]",
     "ItemId": 2,
-    "ItemQty": 10
+    "ItemQty": 10,
+    "IsBanned": true
   },
   "15601": {
     "Id": 15601,

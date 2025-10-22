@@ -2,7 +2,7 @@
   "1000301": {
     "Id": 1000301,
     "TaskTabType": 1,
-    "ActivityGroupName": "惊奇冒险！渊海幽灵船传说！",
+    "ActivityGroupName": "???",
     "ActivityId": 1010003,
     "Order": 1,
     "Reward1": 503,
@@ -21,7 +21,7 @@
   "1000302": {
     "Id": 1000302,
     "TaskTabType": 2,
-    "ActivityGroupName": "惊奇冒险！渊海幽灵船传说！",
+    "ActivityGroupName": "???",
     "ActivityId": 1010003,
     "Order": 2,
     "Reward1": 503,
@@ -40,7 +40,7 @@
   "1000303": {
     "Id": 1000303,
     "TaskTabType": 3,
-    "ActivityGroupName": "惊奇冒险！渊海幽灵船传说！",
+    "ActivityGroupName": "???",
     "ActivityId": 1010003,
     "Order": 3,
     "Reward1": 503,
@@ -59,7 +59,7 @@
   "1000304": {
     "Id": 1000304,
     "TaskTabType": 4,
-    "ActivityGroupName": "惊奇冒险！渊海幽灵船传说！",
+    "ActivityGroupName": "???",
     "ActivityId": 1010003,
     "Order": 4,
     "Reward1": 503,
